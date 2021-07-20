@@ -1,6 +1,6 @@
 # S6_UAS_BIGDATA
 
-tugas web CRUD perumahan mojokerto by Muhammad Haris Abidin
+Tugas web CRUD perumahan mojokerto by Muhammad Haris Abidin
 
 Anggota Kelompok:
 1. Muhammad Haris Abidin
